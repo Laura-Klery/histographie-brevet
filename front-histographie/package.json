@@ -13,7 +13,7 @@
     "nodemon": "^3.0.1",
     "postcss": "^8.4.31",
     "requires": "^1.0.2",
-    "semver": "~7.0.0",
+    "semver": "~7.5.2",
     "simple-update-notifier": "^2.0.0",
     "via": "^0.0.0",
     "vue": "^3.2.13",
